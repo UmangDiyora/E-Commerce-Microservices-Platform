@@ -18,10 +18,10 @@
         <module>config-server</module>
         <module>api-gateway</module>
         <module>user-service</module>
-        <!-- Business services - will be added as we implement them -->
-        <!--
         <module>product-service</module>
         <module>order-service</module>
+        <!-- Business services - will be added as we implement them -->
+        <!--
         <module>payment-service</module>
         <module>notification-service</module>
         -->
