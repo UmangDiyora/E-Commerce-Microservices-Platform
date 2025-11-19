@@ -20,9 +20,9 @@
         <module>user-service</module>
         <module>product-service</module>
         <module>order-service</module>
+        <module>payment-service</module>
         <!-- Business services - will be added as we implement them -->
         <!--
-        <module>payment-service</module>
         <module>notification-service</module>
         -->
     </modules>
